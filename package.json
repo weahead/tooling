@@ -1,0 +1,30 @@
+{
+  "name": "@weahead/tooling",
+  "version": "0.1.0",
+  "description": "We aheads collection of tooling packages for non React projects.",
+  "author": "We ahead <alla@weahead.se>",
+  "license": "X11",
+  "files": [
+    "package.json",
+    "README.md"
+  ],
+  "dependencies": {
+    "@commitlint/cli": "8.2.0",
+    "@commitlint/config-conventional": "8.2.0",
+    "@commitlint/prompt-cli": "8.2.0",
+    "@weahead/commitlint-config": "0.2.0",
+    "@weahead/eslint-config-tool": "0.3.0",
+    "@weahead/husky-config": "0.5.0",
+    "@weahead/lint-staged-config": "0.5.0",
+    "@weahead/markdownlint-config": "0.1.0",
+    "@weahead/prettier-config": "0.2.0",
+    "commitizen": "4.0.3",
+    "cz-conventional-changelog": "3.0.2",
+    "eslint": "6.6.0",
+    "husky": "3.0.9",
+    "lint-staged": "9.4.2",
+    "markdownlint-cli": "0.19.0",
+    "package-change-checker": "1.2.4",
+    "prettier": "1.18.2"
+  }
+}
