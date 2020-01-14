@@ -6,8 +6,12 @@
   "license": "X11",
   "files": [
     "package.json",
-    "README.md"
+    "README.md",
+    "scripts/*"
   ],
+  "scripts": {
+    "postinstall": "./scripts/postinstall.sh"
+  },
   "dependencies": {
     "@commitlint/cli": "8.2.0",
     "@commitlint/config-conventional": "8.2.0",
