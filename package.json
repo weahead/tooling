@@ -10,7 +10,7 @@
     "scripts/*"
   ],
   "scripts": {
-    "postinstall": "./scripts/postinstall.sh"
+    "postinstall": "node scripts/postinstall.js"
   },
   "dependencies": {
     "@commitlint/cli": "8.2.0",
