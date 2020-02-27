@@ -21,7 +21,7 @@
     "@weahead/husky-config": "0.6.1",
     "@weahead/lint-staged-config": "0.6.1",
     "@weahead/markdownlint-config": "0.2.1",
-    "@weahead/prettier-config": "0.2.0",
+    "@weahead/prettier-config": "0.3.1",
     "commitizen": "4.0.3",
     "cz-conventional-changelog": "3.0.2",
     "eslint": "6.6.0",
