@@ -1,6 +1,7 @@
 # @weahead/tooling
 
-[We aheads](https://www.weahead.se/) eslint config for **non** React projects.
+[We aheads](https://www.weahead.se/) package,
+installing all configs for **non** React projects.
 
 ## Install
 
