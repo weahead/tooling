@@ -1,6 +1,6 @@
 {
   "name": "@weahead/tooling",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "We aheads collection of tooling packages for non React projects.",
   "author": "We ahead <alla@weahead.se>",
   "license": "X11",
